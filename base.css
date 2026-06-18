@@ -1,0 +1,196 @@
+/* =====================================================
+   CAROUSEL STUDIO — DESIGN SYSTEM
+   Rebrand by changing these 6 variables only:
+   ===================================================== */
+:root {
+  --accent:      #2563EB;   /* primary color — electric blue */
+  --accent-lt:   #60A5FA;   /* lighter accent for text on dark */
+  --bg-deep:     #0B1120;   /* deepest background */
+  --bg-plate:    #111827;   /* dark headline / content plates */
+  --bg-card:     #FFFFFF;   /* white floating tile cards */
+  --font:        'Inter', system-ui, -apple-system, Helvetica, sans-serif;
+}
+
+/* ---- Derived tokens (computed from above) ---- */
+:root {
+  --accent-glow:    rgba(37,99,235,0.18);
+  --accent-border:  rgba(37,99,235,0.30);
+  --text-bright:    #F8FAFC;
+  --text-muted:     #94A3B8;
+  --text-dark:      #0F172A;
+  --text-mid:       #334155;
+  --shadow-card:    0 24px 64px rgba(0,0,0,0.28), 0 4px 12px rgba(0,0,0,0.14);
+  --shadow-plate:   0 32px 80px rgba(0,0,0,0.40), inset 0 1px 0 rgba(255,255,255,0.07);
+  --r-plate:        20px;
+  --r-card:         16px;
+  --r-icon:         14px;
+}
+
+/* ---- Reset + canvas ---- */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+html, body {
+  width:    1080px;
+  height:   1350px;
+  overflow: hidden;
+  font-family: var(--font);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+/* =====================================================
+   BACKGROUNDS
+   ===================================================== */
+
+/* Dark spatial: deep navy + two blue radial glows */
+.bg-spatial {
+  position: relative;
+  width: 1080px; height: 1350px;
+  overflow: hidden;
+  background:
+    radial-gradient(ellipse 800px 600px at 22% 12%, rgba(37,99,235,0.14) 0%, transparent 68%),
+    radial-gradient(ellipse 500px 400px at 82% 88%, rgba(37,99,235,0.09) 0%, transparent 65%),
+    linear-gradient(158deg, #12182e 0%, var(--bg-deep) 55%, #090e1c 100%);
+}
+
+/* Light spatial: soft blue-white gradient for content slides */
+.bg-light {
+  position: relative;
+  width: 1080px; height: 1350px;
+  overflow: hidden;
+  background:
+    radial-gradient(ellipse 900px 500px at 75% 5%, rgba(37,99,235,0.06) 0%, transparent 70%),
+    linear-gradient(172deg, #EEF2FF 0%, #F8FAFC 45%, #EFF6FF 100%);
+}
+
+/* =====================================================
+   STRUCTURAL COMPONENTS
+   ===================================================== */
+
+/* Dark plate — for headline / content on dark bg */
+.plate {
+  background: var(--bg-plate);
+  border-radius: var(--r-plate);
+  border: 1px solid rgba(255,255,255,0.06);
+  box-shadow: var(--shadow-plate);
+  position: absolute;
+}
+
+/* White card — for content on light bg */
+.card {
+  background: var(--bg-card);
+  border-radius: var(--r-card);
+  box-shadow: var(--shadow-card);
+  position: absolute;
+}
+
+/* Accent rule — used as section divider */
+.accent-bar {
+  width: 56px; height: 4px;
+  background: var(--accent);
+  border-radius: 2px;
+}
+
+/* Icon tile — accent-tinted box for app/tool icons */
+.icon-tile {
+  width: 88px; height: 88px;
+  border-radius: var(--r-icon);
+  background: var(--accent-glow);
+  border: 1.5px solid var(--accent-border);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+}
+.icon-tile img { width: 52px; height: 52px; object-fit: contain; }
+
+/* Step number badge */
+.step-badge {
+  width: 72px; height: 72px;
+  border-radius: 50%;
+  background: var(--accent);
+  color: #fff;
+  font-size: 34px; font-weight: 800;
+  display: flex; align-items: center; justify-content: center;
+  position: absolute;
+  box-shadow: 0 0 0 10px rgba(37,99,235,0.18), 0 8px 24px rgba(37,99,235,0.40);
+}
+
+/* =====================================================
+   TYPOGRAPHY SCALE
+   ===================================================== */
+
+.t-eyebrow {
+  font-size: 20px; font-weight: 600;
+  letter-spacing: 0.13em; text-transform: uppercase;
+  color: var(--accent-lt);
+}
+
+/* Cover main title */
+.t-hero {
+  font-size: 86px; font-weight: 800;
+  line-height: 1.02; letter-spacing: -0.03em;
+  color: var(--text-bright);
+}
+
+/* Section headlines */
+.t-headline {
+  font-size: 58px; font-weight: 800;
+  line-height: 1.06; letter-spacing: -0.02em;
+  color: var(--text-bright);
+}
+
+.t-subhead {
+  font-size: 30px; font-weight: 500;
+  line-height: 1.35; color: var(--text-muted);
+}
+
+.t-body {
+  font-size: 28px; font-weight: 400;
+  line-height: 1.55; color: var(--text-muted);
+}
+
+/* Giant stat number */
+.t-stat {
+  font-size: 200px; font-weight: 900;
+  line-height: 1.0; letter-spacing: -0.04em;
+  color: var(--accent);
+}
+
+/* Colour modifiers */
+.t-accent  { color: var(--accent-lt); }
+.t-bright  { color: var(--text-bright); }
+.t-dark    { color: var(--text-dark); }
+.t-mid     { color: var(--text-mid); }
+.t-muted   { color: var(--text-muted); }
+
+/* =====================================================
+   CHROME (counter, brand tag)
+   ===================================================== */
+
+.slide-counter {
+  position: absolute;
+  top: 52px; right: 64px;
+  font-size: 22px; font-weight: 600;
+  letter-spacing: 0.05em;
+  color: rgba(255,255,255,0.28);
+}
+.slide-counter.dark { color: rgba(15,23,42,0.28); }
+
+.brand-tag {
+  position: absolute;
+  bottom: 52px; left: 64px;
+  font-size: 20px; font-weight: 700;
+  letter-spacing: 0.07em; text-transform: uppercase;
+  color: rgba(255,255,255,0.22);
+}
+
+/* =====================================================
+   AVATAR
+   ===================================================== */
+.avatar {
+  position: absolute;
+  bottom: 0;
+  image-rendering: -webkit-optimize-contrast;
+  image-rendering: crisp-edges;
+}

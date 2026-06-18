@@ -1,0 +1,46 @@
+{
+  "topic":   "5 AI Tools Every Creator Needs in 2025",
+  "keyword": "TOOLS",
+  "author":  "@nishit",
+  "slides": [
+    {
+      "type":     "cover",
+      "eyebrow":  "Creator Stack",
+      "title":    "5 AI Tools Every Creator Needs in 2025",
+      "subtitle": "Stop wasting time. Start shipping content that converts.",
+      "author":   "@nishit"
+    },
+    {
+      "type":     "step",
+      "step":     "01",
+      "heading":  "ChatGPT — Your Idea Machine",
+      "body":     "Never stare at a blank page again. Generate 30 content ideas in 60 seconds, then let it write your first draft."
+    },
+    {
+      "type":     "step",
+      "step":     "02",
+      "heading":  "Midjourney — Visuals in Minutes",
+      "body":     "Professional-grade thumbnails and graphics without a designer. Type a prompt, pick a result, post it."
+    },
+    {
+      "type":     "stat",
+      "stat":     "3×",
+      "label":    "more reach with carousels",
+      "context":  "Carousels get 3× more saves than single images — and saves are the metric Instagram rewards most.",
+      "author":   "@nishit"
+    },
+    {
+      "type":     "step",
+      "step":     "03",
+      "heading":  "Claude — Deep Work Partner",
+      "body":     "Long-form research, editing, and strategy at speed. It reads your entire doc and gives you real feedback."
+    },
+    {
+      "type":     "cta",
+      "prompt":   "Comment",
+      "keyword":  "TOOLS",
+      "subtext":  "and I'll DM you the full 10-tool creator stack (free)",
+      "author":   "@nishit"
+    }
+  ]
+}
