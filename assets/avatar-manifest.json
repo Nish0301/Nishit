@@ -1,0 +1,28 @@
+{
+  "generated_by": "Pixa / Flux 2 Klein 9B",
+  "model": "flux-2-klein-9b",
+  "style": "flat modern vector illustration, grey blazer + black shirt, 2:3 aspect ratio",
+  "note": "Assets stored on Pixa CDN. Add *.pixelcut.app and *.pixa.com to network egress allowlist to download locally, or use asset_ids via Pixa MCP tools.",
+  "poses": {
+    "casual": {
+      "asset_id": "asset_7b921293d209446fa8004b1f3ec2fb02",
+      "description": "Standing relaxed, arms at sides"
+    },
+    "pointing": {
+      "asset_id": "asset_bd247ff645314510aa9e3fa8c9bc4127",
+      "description": "Right arm extended, finger pointing at viewer"
+    },
+    "victory": {
+      "asset_id": "asset_9adf42b9f9964837927f8a07836a00e8",
+      "description": "Right fist raised high, celebratory"
+    },
+    "arms-crossed": {
+      "asset_id": "asset_9a65fac4e25e460493f557ae926edc26",
+      "description": "Arms crossed confidently over chest"
+    },
+    "phone": {
+      "asset_id": "asset_46e9001867694ae082205aacbe716b64",
+      "description": "Holding smartphone, looking at screen"
+    }
+  }
+}
