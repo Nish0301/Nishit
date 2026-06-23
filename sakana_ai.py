@@ -3,13 +3,17 @@ Sakana AI Fugu - OpenAI-compatible client
 Model: fugu-ultra
 API base: https://api.sakana.ai/v1
 
-Set env vars before running:
-    export FUGU_API_KEY=your_api_key_here
-    export FUGU_BASE_URL=https://api.sakana.ai  # optional, defaults below
+Reads credentials from .env (FUGU_API_KEY, FUGU_BASE_URL).
 """
 
 import os
 from openai import OpenAI
+
+try:
+    from dotenv import load_dotenv
+    load_dotenv()
+except ImportError:
+    pass
 
 FUGU_BASE_URL = os.environ.get("FUGU_BASE_URL", "https://api.sakana.ai").rstrip("/")
 if not FUGU_BASE_URL.endswith("/v1"):
