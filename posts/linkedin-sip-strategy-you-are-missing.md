@@ -17,11 +17,11 @@ Before anyone says it: B also put in a lot more money, roughly ₹23.88 crore in
 
 Inflation is why that matters. At 6% a year, A's ₹34.95 crore would buy roughly what ₹6.08 crore buys today, and a ₹1 lakh a month lifestyle today could cost about ₹5.74 lakh a month in 30 years.
 
-A doctor we work with got this exact advice from us a while back: raise your SIP by 12% every year. He didn't do it then, and he's still putting it off. Nothing has gone wrong with his investments, but every year he waits is one less year of step-ups working for him.
+A doctor we work with got this exact advice from us a while back: raise your SIP by 12% every year. He didn't do it then, and he's still putting it off. Each year he waits is one less year of step-ups working for him.
 
 At Synova we call this the Ladder SIP: one step up every year, sized to what your income can actually carry.
 
-Two things decide whether it works. Tie the top-up to your appraisal month so it happens without a fresh decision every year. And pick a percentage you can hold in a bad year, since a 5% step-up you keep for 30 years will usually do more than a 15% one you drop after two.
+Two things decide whether it works. Tie the top-up to your appraisal month so it happens without a fresh decision every year. And pick a percentage you can hold even in a bad year, because the step-up only helps if it keeps going for decades.
 
 Most platforms let you add an annual top-up when you register the SIP mandate.
 
@@ -50,6 +50,6 @@ Year 20: A ₹2.40 Cr → ~₹9.89 Cr | B ₹7.70 Cr → ~₹21.33 Cr
 Year 25: A ₹3.00 Cr → ~₹18.79 Cr | B ₹13.73 Cr → ~₹46.76 Cr
 Year 30: A ₹3.60 Cr → ~₹34.95 Cr | B ₹23.88 Cr → ~₹98.42 Cr
 
-By year 30, B's monthly SIP is about ₹20.6 lakh, which only works if income has grown alongside it. Pick the step-up your income can support, not the one that makes the biggest number.
+By year 30, B's monthly SIP is about ₹20.6 lakh, which only works if income has grown alongside it. Pick a step-up your income can actually support.
 
 Mutual Fund investments are subject to market risks, read all scheme related documents carefully.
