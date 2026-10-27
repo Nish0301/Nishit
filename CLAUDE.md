@@ -18,4 +18,4 @@ For any LinkedIn-related request (posts, comments, replies, reposts, content pla
 Don't use other LinkedIn or copywriting skills (e.g. `anthropic-skills:linkedin-post-writer`, `anthropic-skills:linkedin-copywriter`) for LinkedIn tasks.
 
 ## Brand and compliance
-- Brand name: Synova. Mutual fund content must follow AMFI and SEBI guidelines: no guaranteed or implied returns, label illustrations with their assumptions, no specific scheme recommendations, include the standard AMFI disclaimer, and add Synova's ARN once it's available.
+- Brand name: Synova. Mutual fund content must follow AMFI and SEBI guidelines: no guaranteed or implied returns, label illustrations with their assumptions, no specific scheme recommendations, include the standard AMFI disclaimer, and sign off with "Synova | AMFI Registered Mutual Fund Distributor | ARN-110098".

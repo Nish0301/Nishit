@@ -17,6 +17,8 @@ Before anyone says it: B also put in a lot more money, roughly ₹23.88 crore in
 
 Inflation is why that matters. At 6% a year, A's ₹34.95 crore would buy roughly what ₹6.08 crore buys today, and a ₹1 lakh a month lifestyle today could cost about ₹5.74 lakh a month in 30 years.
 
+A doctor we work with got this exact advice from us a while back: raise your SIP by 12% every year. He didn't do it then, and he's still putting it off. Nothing has gone wrong with his investments, but every year he waits is one less year of step-ups working for him.
+
 At Synova we call this the Ladder SIP: one step up every year, sized to what your income can actually carry.
 
 Two things decide whether it works. Tie the top-up to your appraisal month so it happens without a fresh decision every year. And pick a percentage you can hold in a bad year, since a 5% step-up you keep for 30 years will usually do more than a 15% one you drop after two.
@@ -30,6 +32,8 @@ P.S. The year-by-year numbers for both investors are in the first comment.
 Illustration only. Assumes monthly SIP, 12% p.a. return compounded monthly, 11% annual step-up, 6% inflation, 30 years. Figures are approximate and are not a promise or indication of returns from any scheme. Taxes, costs and market volatility are not considered. Not investment advice; consult a financial advisor before investing.
 
 Mutual Fund investments are subject to market risks, read all scheme related documents carefully. Past performance may or may not be sustained in the future and is not a guarantee of future returns.
+
+Synova | AMFI Registered Mutual Fund Distributor | ARN-110098
 
 #SIP #MutualFunds
 
