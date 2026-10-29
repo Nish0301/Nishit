@@ -15,6 +15,8 @@ For any LinkedIn-related request (posts, comments, replies, reposts, content pla
 - Engager / thread tracking: `linkedin-skills:linkedin-engager-analytics`, `linkedin-skills:linkedin-thread-monitor`
 - Team advocacy programs: `linkedin-skills:linkedin-employee-advocacy`
 
+**Mandatory final step for every LinkedIn post or comment:** before handing over any draft, invoke `linkedin-skills:linkedin-humanizer` and run the full audit (the plugin's regex checks from `references/audit-ai-tells.md` plus the manual checklist in `sub-skills/post-audit.md` and `references/audit-checklist.md`), fix what it flags, re-check, and only then give the user the final humanized text in a copy-paste code block. Say what the audit changed and what warnings remain. Never deliver a post that hasn't been through this.
+
 Don't use other LinkedIn or copywriting skills (e.g. `anthropic-skills:linkedin-post-writer`, `anthropic-skills:linkedin-copywriter`) for LinkedIn tasks.
 
 ## Brand and compliance
