@@ -1,32 +1,32 @@
 # 6 Signs Your Financial Plan Needs a Review (LinkedIn caption for the carousel PDF)
 
-Skill: linkedin-repurposer (source: carousel PDF). Formula: number-first hook, goal: saves + comments.
+Skill: linkedin-repurposer (source: carousel PDF), then linkedin-humanizer strict rewrite (conversational) + audit.
 
 ---
 
-A 60:40 equity-debt mix you set up a few years ago can drift to 75:25 without you making a single change.
+A 60:40 equity-debt mix you set up a few years ago can turn into 75:25 without you lifting a finger.
 
-Markets moved and the plan stayed where you left it, so you're now carrying more equity risk than you signed up for.
+The market moved while your plan just sat there, so now you're carrying more equity risk than you ever signed up for.
 
-That's sign 4 of the 6 in this carousel — and usually the one people catch last, because nothing in day-to-day life tells you it happened.
+It's sign 4 in this carousel — and it's usually the one people notice last, because nothing in your day-to-day life warns you it's happening.
 
-The other five tend to announce themselves:
+The other five are easier to spot, if you're looking:
 
-→ A big life event: marriage, a baby, a divorce, a new home, a loss in the family
-→ Your income changed, whether it's a raise, a job switch, a pay cut or side income
-→ You can't say what you're investing for, or by when
-→ Debt is creeping up and the month keeps ending on credit
-→ Your emergency fund, insurance cover or nominees haven't been touched in years
+→ Something big happened in your life: a wedding, a baby, a divorce, a new home, a loss in the family
+→ Your income moved, up or down, whether that's a raise, a new job, a pay cut or some side income
+→ Someone asks what you're investing for, and you don't have a clear answer
+→ Your card bill keeps rolling over and the month ends on credit
+→ Your emergency fund, insurance cover or nominees haven't been looked at in years
 
-Each of these changes something your plan was built on. A plan made for the life you had can be a poor fit for the one you have now.
+Each one shifts something your plan was built on. You made that plan for the life you had back then, and it may not suit the one you're living now.
 
-And if your last review was more than a year ago, treat that as a sign on its own.
+And if you can't remember your last review, or it was more than a year ago, count that as a sign too.
 
-A review doesn't have to be a big exercise. Write each goal down with an amount and a date, then check your current allocation against the one you chose.
+A review doesn't need to be a big production. Write down each goal with an amount and a date, then see if your allocation still matches the one you picked.
 
-Which of these six has crept up on you lately?
+So which of these six has crept up on you?
 
-P.S. Save the carousel for your next check-up.
+P.S. Save the carousel, it'll come in handy at your next check-up.
 
 Mutual Fund investments are subject to market risks, read all scheme related documents carefully. Past performance is not an indicator of future returns. This content is for educational purposes only and should not be treated as investment advice.
 
