@@ -1,13 +1,13 @@
 # Comment on Arpit Batra's post (Anant & Isha Ambani speech at Jio Platforms IPO listing)
 
-Skill: linkedin-comment-drafter, then linkedin-humanizer audit. Reaction: APPRECIATION (Support).
+Skill: linkedin-comment-drafter, then linkedin-humanizer strict rewrite (conversational) + audit. Reaction: APPRECIATION (Support).
 
 ---
-Option A (T1 Missing-Piece)
+Option A (T1 Missing-Piece, conversational)
 
-Arpit, what stood out to me was how much of the speech was about the generations before them. In family finances that's usually the missing piece: people plan the money in detail and skip the conversation about what it's for. Values only carry forward when someone says them out loud, like they did on that stage.
+Arpit, the bit about the grandparents and parents is what stuck with me reading this. That's the part most families skip when they plan their money. They sort out the numbers and never really sit down and talk about what it's all for. Nice to see it said so openly on a stage like that.
 
 ---
-Option B (T6 Quotable-Reframe)
+Option B (T6 Quotable-Reframe, conversational)
 
-Wealth lasts about as long as the reasons behind it get passed on. Arpit, that's what I took from the speech too. In my work with families, the plans that hold up across generations are usually the ones where the elders explained why the money matters, alongside the will and the nominations.
+Money gets passed down easily enough, Arpit. The reasons behind it usually don't, unless someone actually sits down and says them out loud. That's what made this speech land for me, and it's a conversation I wish more families had at home too.
